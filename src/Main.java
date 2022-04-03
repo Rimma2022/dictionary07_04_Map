@@ -15,7 +15,6 @@ public class Main {
      * ■ Позволять добавить, заменить, удалить слово.
      *
      */
-    //    public static HashMap<String, Integer> statistic = new HashMap<>();
     public static HashMap<String, List<String>> dictionary = new HashMap<>();
     public static BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
